@@ -2,7 +2,7 @@
 DigiBruteForce - Digispark 6-Digit PIN Brute Force attack 
 for USB-OTG Android devices. 
 Written to support DigiStump's DigiSpark Model A.
-Written by Ikram654
+Written by Ikteach
 ===============================================*/
 
 #include "DigiKeyboard.h"
